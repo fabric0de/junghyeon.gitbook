@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Dev wiki](README.md)
+  * [DevOps](dev-wiki/devops.md)
   * [Frontend](dev-wiki/frontend/README.md)
     * [HTML](dev-wiki/frontend/html/README.md)
       * [role](dev-wiki/frontend/html/role.md)
