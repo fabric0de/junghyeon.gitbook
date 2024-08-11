@@ -1,4 +1,4 @@
-# DevOps
+# Monolithic\&MSA
 
 ### Monolithic 아키텍쳐와 MSA의 차이를 비교하기 전에?
 

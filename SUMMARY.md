@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Dev wiki](README.md)
-  * [DevOps](dev-wiki/devops.md)
+  * [DevOps](dev-wiki/devops/README.md)
+    * [Monolithic\&MSA](dev-wiki/devops/monolithic-and-msa.md)
   * [Frontend](dev-wiki/frontend/README.md)
     * [HTML](dev-wiki/frontend/html/README.md)
       * [role](dev-wiki/frontend/html/role.md)
