@@ -13,5 +13,6 @@
       * [Function](dev-wiki/frontend/javascript/function.md)
     * [TypeScript](dev-wiki/frontend/typescript.md)
     * [React](dev-wiki/frontend/react.md)
+    * [Rendering Pattern](dev-wiki/frontend/rendering-pattern.md)
   * [Backend](dev-wiki/backend/README.md)
     * [Node.js](dev-wiki/backend/node.js.md)
